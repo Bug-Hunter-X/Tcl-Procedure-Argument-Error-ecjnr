@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Tcl programming involving the incorrect handling of procedure arguments.  The `bug.tcl` file shows the erroneous code, which fails when a procedure is called with fewer arguments than expected. The `bugSolution.tcl` demonstrates the corrected code with improved argument handling using `args` to ensure robustness.
